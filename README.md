@@ -1,10 +1,9 @@
 # TikTokGame
 Create a Tic Tac Toe Game between two player.
 
-Description of the program:
-Created method to display a board 3*3 display.
-Created method to validate the input for space check(if the position given by the user already filled).
-Created method to validate if the game is over and either of the player won the game
+Description:
+Tic-tac-toe (American English), noughts and crosses (British English), or Xs and Os is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. Players soon discover that the best play from both parties leads to a draw. Hence, tic-tac-toe is most often played by young children, who often have not yet discovered the optimal strategy.
 
+        
 Instruction to run the code:
 Run the Code: python tikTok.py
